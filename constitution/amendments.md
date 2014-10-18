@@ -57,3 +57,15 @@ that should not be in the Constitution.
 The 19th Amendment, says the right to vote cannot be denied to women,
 could be used to argue either for or against the constitutionality of
 sex discrimination.
+
+## The First Amendment
+
+### Freedom of Speech
+
+Only applies when the government tries to restrain speech, applies to
+the whole government, not only the Congress, applies to state
+governments through the 14th Amendment.
+
+Speech is anything that could in any way convey an idea or emotion.
+The Supreme Court said students do have a free speech rights unless
+school officials have a reasonable fear of disruption.
