@@ -69,3 +69,14 @@ governments through the 14th Amendment.
 Speech is anything that could in any way convey an idea or emotion.
 The Supreme Court said students do have a free speech rights unless
 school officials have a reasonable fear of disruption.
+
+
+## The Fourth Amendment
+
+Protects individuals from unlawful searches and seizures.
+
+The exclusionary rule, says evidence obtained in an illegal search
+can't be used in a criminal prosecution. However you aren't protected
+if you give information to a third party, and the police then get that
+information from them. Technology has made it difficult to protect
+information from the government.
