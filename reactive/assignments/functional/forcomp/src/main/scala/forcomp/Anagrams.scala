@@ -165,12 +165,10 @@ object Anagrams {
    *  Note: There is only one anagram of an empty sentence.
    */
   def sentenceAnagrams(sentence: Sentence): List[Sentence] = {
-    combinations(sentenceOccurrences(sentence)).map(o => {
-      if (dictionaryByOccurrences isDefinedAt o)
-        dictionaryByOccurrences(o)
-      else Nil
+    if (sentence == Nil) Nil
+    else {
+      
     }
-    )
   }
 
 }
